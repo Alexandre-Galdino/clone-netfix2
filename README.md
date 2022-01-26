@@ -1,2 +1,2 @@
-# clone-netfix2
-Clone do site Netfix
+# Clone Netflix
+## Trabalho realizado com desafio do curso.
